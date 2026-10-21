@@ -1,0 +1,21 @@
+{
+  "name": "student-placement-management-system",
+  "version": "1.0.0",
+  "description": "Enterprise Student Placement Management System (MEAN Stack)",
+  "scripts": {
+    "start:backend": "cd backend && npm run dev",
+    "start:frontend": "cd frontend && npm start",
+    "seed": "cd backend && npm run seed",
+    "test:backend": "cd backend && npm test",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "mean-stack",
+    "angular",
+    "express",
+    "mongodb",
+    "placement-management"
+  ],
+  "author": "Placement Architecture Team",
+  "license": "ISC"
+}
